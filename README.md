@@ -12,9 +12,9 @@ The Atliq Sales Insights Data Analysis and Visualization project combines SQL an
 *Total Revenue from Jan 2018 to Jan 2020. Revenue by Markets and Customers, Sales Quantities by Markets and Customers, Top 5 demanding products, Top 5 customers, trend chart, geographical view of revenue by regions.*
 
 ## Revenue over different years
-*Total Revenue of 2017*
-![Revenue of 2017](pbi_images/2017.png) 
 
+![Revenue of 2017](pbi_images/2017.png) 
+*Total Revenue of 2017*
 *Total Revenue of 2018*
 ![Revenue of 2018](pbi_images/2018.png) 
 
