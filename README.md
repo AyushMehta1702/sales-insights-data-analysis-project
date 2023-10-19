@@ -13,8 +13,9 @@ The Atliq Sales Insights Data Analysis and Visualization project combines SQL an
 
 ## Revenue over different years
 
-![Revenue of 2017](pbi_images/2017.png) 
 *Total Revenue of 2017*
+![Revenue of 2017](pbi_images/2017.png) 
+
 *Total Revenue of 2018*
 ![Revenue of 2018](pbi_images/2018.png) 
 
